@@ -1,0 +1,8 @@
+{
+  "workbench.colorTheme": "Theme Mix",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.preferredDarkColorTheme": "Kimbie Dark",
+  "workbench.preferredHighContrastColorTheme": "Theme (Italic)",
+  "workbench.preferredLightColorTheme": "Red",
+  "liveServer.settings.port": 5502
+}
